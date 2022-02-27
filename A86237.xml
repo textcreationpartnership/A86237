@@ -1,0 +1,313 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Here is great news for England. And good news for England.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86237</idno>
+            <idno type="STC">Wing H1549</idno>
+            <idno type="STC">ESTC R177950</idno>
+            <idno type="EEBO-CITATION">45789339</idno>
+            <idno type="OCLC">ocm 45789339</idno>
+            <idno type="VID">172650</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A86237)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172650)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2643:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Here is great news for England. And good news for England.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1700]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date and place of publication suggested by Wing.</note>
+                  <note>Reproduction of original in: Friends' Library (London, England).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  England --  Doctrines --  Early works to 1800.</term>
+               <term>Christian poetry, English --  Early modern, 1500-1700.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-11</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="account">
+            <pb facs="tcp:172650:1" rendition="simple:additions"/>
+            <head>Here is Great News for England.
+And good News for England.</head>
+            <p>WAS not a Woman the firſt that Chriſt ſent,
+and ſhall they not be the laſt? For they ſhall
+have the hardeſt Task? They are the fineſt of
+the Mold, and they ſhall tell you things not
+yet told: Chriſt loved a Woman beſt, becauſe
+he laid on her Lap and ſuck'd on her Breaſt.</p>
+            <p>A Woman ſhall not be run down, for con<g ref="char:EOLhyphen"/>ſider
+a Woman wore the Crown: A Woman
+brings forth the young, and is the fineſt becauſe
+ſhe hath ſo done: A Woman's the ſweeteſt
+Bread, if ſhe will but hear what the Spirit has
+ſaid: Then ſhe's God's own, for a Woman was
+made out of the Bone. A Man was made out
+of the Earth, he can't ſo well convince the <hi>Turk:</hi>
+The Earth will forſake, the Earth will give
+way, a Bone will give none, of a Bone came
+he that is, and was, and ever will be God's
+own. By a Woman came the fall, and freely
+without your Money, they'll help to draw you
+up all, that will obey your call: A Woman cut
+off <hi>Holiferne</hi>'s Head, ſhe neither drank his Drink
+nor eat his Bread; Yet by her the whole Army
+run and fled: What is it a Woman has not done,
+that a Man never did, brought our Saviour to
+Bed, the Virgin
+<hi>Mary</hi> was the firſt Preacher, for at the Dinner,
+ſhe ſaid what he bids you do, that do; ay and
+ſhe was a Counſellor too, and they took her
+Council, ſo that when he ſpoke, they fill'd the
+Water pots, 'twas the beſt Wine that ever was
+drank, and if you was to hear him ſpeak, you
+would find that it was the beſt Wine that ever
+you did drink. And the Woman at the Well of
+<hi>Samaria</hi> run into the City and ſaid come ſee a
+Man that hath told me all that ever I did: And
+Mary Magdalen was the firſt that ſavv him after
+he aroſe again, ſays he go tell my Apoſtles that
+I am riſen, vvas he not angry vvith the Apo<g ref="char:EOLhyphen"/>ſtles
+becauſe they did not believe the Woman.</p>
+            <div type="letter">
+               <head>Here is the Chriſtians Letter to all that has in
+them no Religion at all.</head>
+               <p>Says ſome is the Quakers way, the right way;
+yes, ye;, for they directed me to him, he is in the
+inward Soul of Man that will be inwardly read all
+my Books and they will direct ye to him; I believe
+this inward teaching is no leſs then the teaching of
+Chriſt, I have joy in the hearing of it, and joy in
+the writing of it, and joy in the Printing of it, and
+exceeding joy in the Preaching of it, and I rejoice
+when I meet with a Miniſter that I like, and I give
+him a Book freely, and he takes it be as much as
+you can alone, as you may have the teaching of God
+and not be thrown, that that checks you for Sin is
+the Spirit of Chriſt within, &amp; if you will but mind it,
+&amp; obey it it will make you wiſer than all your teach<g ref="char:EOLhyphen"/>ers;
+Is not Chriſt to teach his People himſelf, now
+find out who is his People that he teaches himſelf; I
+believe I know them that lies low, ſome Men has
+outward learning a deal, but can ye tell me what
+the Spirit does to ye reveal, I ſpeak now to elderly
+Men, come hold your Tongue and be no more a
+Reader, but let Chriſt be your Teacher; the ſooner
+the better ye come from the Letter, for the Letter
+kill<gap reason="illegible: faint" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </p>
+               <p>Lye lovv, live lovv, and then ye vvill be the
+eaſieſt and the happieſt, and the moſt knovv;
+Come ſeek for the Blood of the Lamb, for that
+is novv the Spirit teaching, there is Life in that,
+and joy and peace in the holy Ghoſt, Chriſt's
+follovvers vvas all led by it, vvhen they came to
+it; I tell ye the truth vvhat I believe, I am cal<g ref="char:EOLhyphen"/>led
+choſen, ſealed, redeemed, elected and nevv
+born, and I have the Goſpel to Preach, and woe
+to me if I hold my Tongue, neither a mock, nor
+a laugh, nor a jar do I fear; carnal Men vvill
+laugh at Spiritual Men, and much more at Wo<g ref="char:EOLhyphen"/>men;
+<hi>Oxford</hi> and <hi>Cambridge</hi> is to blame, for
+they make more Miniſters then they can main<g ref="char:EOLhyphen"/>tain,
+for no Man ought to be a Preacher before
+he has the ſpiritually teacher, are you taught by
+God, or are you taught by Man; for Prayers
+that comes from on high, aſcends up on high
+ſuch Warriors, I knevv I long to be ſo too, <hi>Anne
+Anderſon, Anne Frame,</hi> and <hi>Charles Marſhal</hi>'s
+Wife, and <hi>Thomas Upſhot,</hi> and <hi>William Penn,</hi> and
+<hi>Leonard Fell;</hi> ſaid a Man cannot have a good
+thought, but as God puts it in his Mind, and
+yet he may have a Prayer by vvrought vvith a
+Laughter, he drevv up their Belief, but before
+he had done, he made a great many vveep; I
+vvould vvait on God, and I believe he vvill
+Proclaim me thro' the City. I am like a War
+Horſe to the Battle, I hear the Drums beat up
+for Volunteers, the War is novv begun and I
+cannot hold my Tongue, here is Trumpets put
+into Mouths that vvill blovv, let the Storms
+beat never ſo; It vvas ſaid to me blovv your
+Trumpet, it ſhall not be in vain, throvv your
+Bread upon the Waters and you ſhall find it a<g ref="char:EOLhyphen"/>gain,
+ſhall I have a Trumpet, and I ſhall ſound
+it vvell, for I am cut from all the Earth, and all
+therein does dvvell, my thinks this inward teach<g ref="char:EOLhyphen"/>ing
+is like my Husband's Father, Colemine that
+runs under Ground; you knovv not the vvorth
+of it, nor the depth of it, it is more vvorth
+then ſeven hundred a Year; I vvill not ſell it,
+nor game it avvay from my Children dear but
+vvork and get Rich, all my Day I vvould not
+looſe no time; I ſay, no Dancing, no Singing,
+no Muſick for me, Dancing ſhould make ye
+dread, becauſe for it <hi>John</hi> the Baptiſt loſt his
+Head, Singing alures Men to Whoring, I don't
+love no outvvard Muſick to pleaſe an outvvard
+Ear, for that is not right, for it does all the Spi<g ref="char:EOLhyphen"/>ritual
+Worſhip a fright: O! happy Day may
+come to me at three ſcore and three, and at
+four ſcore and four, ſorrovvs may not trouble
+me no more, and at a hundred Year old I may
+be more Beautiful, then now humble, meek
+and patience then ever, then People may mind
+me more, vvhen I deliver both invvard Riches
+and outvvard Riches: O! that vvill be Beauty
+indeed.</p>
+               <p>Who knows what ſhall be done ſeven Years hence, I
+don't know but God knows I hope well for me and
+mine, who knows what ſhall be done ten Years hence,
+better and better, for them that <gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>weth God and comes
+further in the Letter, and them that lives twenty
+Years louger and can ſee the Goſpel increaſe will have
+a noble Feaſt, and I believe in five and thirty Years
+and four, in a glorious Body that will decend down,
+for me to launce in, when I go out of this mortal Body
+then where is Purgatory, there is no ſuch thing; Pur<g ref="char:EOLhyphen"/>gation
+is here when you are in Sorrow and Sin fear,
+ſome is judg'd now while their here well, and ſome
+not till they die and juſt a going to Hell; if ye have
+done Evil and will do it again and again, there is a
+Gulf to fall in, but if ye will repent and Sin fear,
+the greateſt Sinner may become the greateſt Saint;
+therefore let no Man faint, and the greateſt Sufferer
+may become the greateſt Preacher, to tell you the Truth
+I believe I ſhall be rich and ſent by God to Preach. I
+would uot be hindred from being a Preacher, nor for all
+the World I would not looſe this heavenly Teacher, I
+believe I ſhall riſe as the Sun at Noon Day, and all
+my Enemies will go away.</p>
+               <p>I hope when the Romiſh Prieſt ſees the Subſtance of
+all Things is come, Hell bid my youngeſt Daughter
+hold her Tongue, and the Abby Common Prayer Men
+my Mother; the <hi>Carnal</hi> Man would if they could
+Laugh the Spiritual Men to Scorn; but they can't
+if their Sealed and new Born, are you come to the
+Spirit of <hi>Chriſt</hi>'s Teaching then are you not Sealed
+and new Born, he that Lives is Faith his Living is
+ſafe! O it is rare to live in Faith and not in fear,
+<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>t it is rare for <gap reason="illegible: faint" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> to Preaching,
+<gap reason="illegible: faint" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> to Smoaking or to Drinking for all elderly People,
+will take to ſomething. Ay often to a <hi>Concubine,</hi>
+where they loſe their Strength, and <hi>ſight if</hi> you don't
+a<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ree with your wife before you die, fear you<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Damn'd
+to all Etenity; which did firſt offend, to agree let them
+firſt ſend.</p>
+               <p>Prophecy: Prophecy, what muſt I Prophecy;
+He that does vvith another Man's Wife lye ſhall
+ſurely in Sin dye and you VVhore, be ſure you
+ſhall pay the Score for watching the VVoman's
+Husband, in and out of his Door, a VVhore is
+like a Louſe if you don't keep your ſelf fat and
+greaſy, and ſeldom ſhifting of ye a Louſe vvon't
+ſtay long vvith ye, but vvill drop avvay from ye,
+and ſo vvill a VVhore, if you have Subſtance for
+her no more.</p>
+               <p>The Whores they trap the Men in the Night, and
+<gap reason="illegible: faint" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Wives are waiting and weeping when they ſhould
+be Sleeping. A Whore is a deep Ditch, a naſty Sink
+the way to Hell, utter ruin and Confuſion.</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
